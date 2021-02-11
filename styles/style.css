@@ -117,3 +117,9 @@ footer {
     }
 
   }
+
+  .add, .subtract, .multiply, .divide {
+      background-color: rgb(190, 190, 190);
+      border-radius: 20px;
+      border: 2px solid black;
+  }
