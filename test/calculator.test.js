@@ -1,5 +1,5 @@
 // IMPORT MODULES under test here:
-import { add, subtract, multiply, divide } from '../utils.js';
+import { add, subtract, multiply, divide } from '../calculatorUtils.js';
 
 const test = QUnit.test;
 
